@@ -2,7 +2,7 @@
 
 Topics:
 
-* Constructors with ES6 class syntax
+* Constructors with ES6 class syntax.
 
 * `data` attributes
 
